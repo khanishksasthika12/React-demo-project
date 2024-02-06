@@ -79,7 +79,7 @@ const Birthday = () => {
 
     <div>
 
-      <h1> {data.length}birthdays today</h1>
+      <h1> {data.length}birthdays aswtnnjhj today</h1>
 
       {data.map((da) => (
 
